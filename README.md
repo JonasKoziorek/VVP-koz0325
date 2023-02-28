@@ -1,1 +1,1 @@
-# VVP-koz0325
+Vědecké výpočty v Pythonu
